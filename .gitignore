@@ -5,4 +5,6 @@
 
 0.6.1/EFI/OC/config.plist
 
+#OS Junk Files
+[Tt]humbs.db
 *.DS_Store
